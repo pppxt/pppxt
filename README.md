@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# 大家好，我是pppxt 👋
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pppxt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pppxt&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=A393F7&center=true&vCenter=true&random=false&width=800&height=150&lines=%E5%B0%8F%E8%A3%B4%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB%EF%BC%81)](https://git.io/typing-svg)
 <!--
 **pppxt/pppxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
